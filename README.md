@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **• Improving my DevOps skills • Exploring Big Data technologies • Deepening my knowledge on Azure and AWS Cloud**
 
-- 👨‍💻 All of my projects are available at [xyz.com](xyz.com)
+- 👨‍💻 All of my projects are available at [Portfolio](portfolio.sohamd.click)
 
 - 📫 How to reach me **ssdabadgaonkar98@gmail.com**
 
