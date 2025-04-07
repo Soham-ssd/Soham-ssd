@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soham Dabadgaonkar</h1>
-<h3 align="center">Devops Engineer</h3>
+<h3 align="center">Cloud Engineer</h3>
 
 - 🌱 Cloud Engineer **• Improving my technology stack • Exploring AI Technologies • Deepening my knowledge on Azure and AWS Cloud**
 
