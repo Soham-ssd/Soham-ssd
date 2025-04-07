@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Dabadgaonkar</h1>
 <h3 align="center">Devops Engineer</h3>
 
-- 🌱 I’m currently learning **• Improving my DevOps skills • Exploring Big Data technologies • Deepening my knowledge on Azure and AWS Cloud**
+- 🌱 Cloud Engineer **• Improving my technology stack • Exploring AI Technologies • Deepening my knowledge on Azure and AWS Cloud**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://resume.sohamd.click)
 
